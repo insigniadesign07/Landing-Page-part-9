@@ -533,3 +533,212 @@ i.one {
   border-radius: 400px;
   color: white;
 }
+.card-1 {
+  width: 300px;
+  height: 400px;
+  background: #ffffff;
+  border-radius: 30px;
+  position: relative;
+  right: 220px;
+  top: 30%;
+}
+.h1-5 {
+  font-size: 35px;
+  font-weight: bold;
+  color: black;
+  line-height: 40px;
+  margin-left: 18px;
+  margin-top: 16px;
+}
+.h3-7 {
+  font-size: 25px;
+  font-weight: lighter;
+  color: black;
+  line-height: 40px;
+  margin-left: 18px;
+  margin-top: 16px;
+}
+.list1 h3 {
+  font-size: 16px;
+  width: 80%;
+  margin-left: 25px;
+  font-weight: lighter;
+  line-height: 30px;
+}
+.line1 {
+  width: 250px;
+  height: 2px;
+  background-color: #507501;
+  margin-left: 22px;
+  margin-top: 20px;
+}
+.h1-6 h1 {
+  font-size: 50px;
+  font-weight: bolder;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.h1-6 span {
+  font-size: 15px;
+  margin-left: 20px;
+}
+.arrow1 {
+  font-size: 40px;
+  position: absolute;
+  bottom: 5%;
+  left: 80%;
+  background-color: #4f7601;
+  border-radius: 400px;
+  color: white;
+}
+.card-2 {
+  width: 300px;
+  height: 400px;
+  background: #ffffff;
+  border-radius: 30px;
+  position: relative;
+  left: 500px;
+  top: 30%;
+}
+.h1-7 {
+  font-size: 35px;
+  font-weight: bold;
+  color: black;
+  line-height: 40px;
+  margin-left: 18px;
+  margin-top: 16px;
+}
+.h3-8 {
+  font-size: 25px;
+  font-weight: lighter;
+  color: black;
+  line-height: 40px;
+  margin-left: 18px;
+  margin-top: 16px;
+}
+.list2 h3 {
+  font-size: 16px;
+  width: 80%;
+  margin-left: 25px;
+  font-weight: lighter;
+  line-height: 30px;
+}
+.line2 {
+  width: 250px;
+  height: 2px;
+  background-color: #507501;
+  margin-left: 22px;
+  margin-top: 20px;
+}
+.h1-8 h1 {
+  font-size: 50px;
+  font-weight: bolder;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.h1-8 span {
+  font-size: 15px;
+  margin-left: 15px;
+}
+.arrow2 {
+  font-size: 40px;
+  position: absolute;
+  bottom: 5%;
+  left: 80%;
+  background-color: #4f7601;
+  border-radius: 400px;
+  color: white;
+}
+.sec-3 {
+  width: 100%;
+  height: 80vh;
+  position: absolute;
+  margin-top: 2700px;
+  background-color: #e8e8e8;
+  position: absolute;
+}
+.main-footer {
+  width: 100%;
+}
+.foot1 {
+  width: 30%;
+  height: auto;
+}
+.logo1 a {
+  font-size: 30px;
+  font-weight: bold;
+  color: #4f7601;
+}
+.logo1 {
+  margin-top: 60px;
+  margin-left: 60px;
+}
+.foot1 p {
+  margin-left: 60px;
+  width: 90%;
+}
+input {
+  padding: 15px 60px;
+  margin-left: 60px;
+  margin-top: 40px;
+  border-radius: 30px;
+  text-align: start;
+}
+.foot2 {
+  width: 30%;
+  height: auto;
+  border-color: #fc0606;
+  margin-left: 45%;
+  position: relative;
+  bottom: 50%;
+}
+.foot2 h2 {
+  font-size: 30px;
+  color: #4f7601;
+}
+.ul-1 {
+  flex-direction: column;
+  align-items: first baseline;
+}
+.ul-1 li {
+  margin: 1px;
+  margin: -10px;
+}
+.foot3 {
+  width: 30%;
+  height: auto;
+  border-color: #fc0606;
+  margin-left: 70%;
+  position: relative;
+  bottom: 575px;
+}
+.foot3 h2 {
+  font-size: 30px;
+  color: #4f7601;
+}
+.social i {
+  display: flex;
+  margin: 20px;
+  font-size: 40px;
+}
+.line3 {
+  width: 1250px;
+  height: 2px;
+  background-color: #4f7601;
+  position: relative;
+  top: 0%;
+  right: 890px;
+}
+h2.h2-6 {
+  font-size: 16px;
+  position: relative;
+  right: 880px;
+  top: 10px;
+}
+h2.h2-7 {
+  font-size: 16px;
+  position: relative;
+  left: 200px;
+  bottom: 10px;
+  cursor: pointer;
+}
